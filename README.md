@@ -30,3 +30,7 @@ Mobile App Dev - App Brainstorming
 
 ## New App Ideas - Evaluate and Categorize
 1. Space Renter
+2. Carpool Partner Finder
+3. Calander App for Work - Productivity 
+    -Allows you to more efficiently keep track of everything work related
+    -Keeps your work life schedule seperate from personal life
