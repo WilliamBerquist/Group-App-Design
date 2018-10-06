@@ -1,6 +1,3 @@
-# Group-App-Design
-
-
 Mobile App Dev - App Brainstorming
 ===
 ## New App Ideas - Evaluate and Categorize
